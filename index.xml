@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My new blogs</title>
+    <link>http://SulaimanSayyed21.github.io/</link>
+    <description>Recent content on My new blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://SulaimanSayyed21.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog</title>
+      <link>http://SulaimanSayyed21.github.io/blogs/firstblog/</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://SulaimanSayyed21.github.io/blogs/firstblog/</guid>
+      <description>Learning Git Making Websites with hugo Aliqua Lorem cupidatat voluptate aute do nisi deserunt consectetur labore minim occaecat sint culpa aute.</description>
+    </item>
+    
+  </channel>
+</rss>
